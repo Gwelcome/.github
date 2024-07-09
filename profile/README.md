@@ -1,12 +1,13 @@
-## Hi there 👋
+# 🤖 Gwelcome(경기웰컴)
 
-<!--
+![151801657](https://github.com/Gwelcome/.github/assets/56792033/6820cd1c-1ab1-4fc6-a1e3-36e4a6ac5dbf)
 
-**Here are some ideas to get you started:**
+## 서비스 소개
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 프로젝트 소개
+#### 프로젝트 기간
+#### 프로젝트 팀원
+## 시스템 아키텍처
+## 주요 기능
+## 시연 영상
+## ETC
